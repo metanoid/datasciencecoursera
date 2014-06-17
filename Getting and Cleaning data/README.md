@@ -1,9 +1,7 @@
 README
 -----------
 
-Colin Phillips
-
-# Steps performed to create tidy data set
+## Steps performed to create tidy data set
 * Load in test data (Subject, x, y)
 * Load in train data (Subject, x, y)
 * Update the column names to be descriptive names
