@@ -11,3 +11,7 @@ README
 * Get Activity names from Activity ID's
 * Find average of each variable per Activity per Subject
 * Write this output to a file called Samsung.txt
+* Write the "narrow" form of this output to a file called "SamsungNarrow.txt", for easier reading on browsers
+
+
+
