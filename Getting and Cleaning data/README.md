@@ -13,5 +13,6 @@ README
 * Write this output to a file called Samsung.txt
 * Write the "narrow" form of this output to a file called "SamsungNarrow.txt", for easier reading on browsers
 
+To recreate the data, run the "run_analysis.R" file in a directory which contains the Samsung data
 
 
